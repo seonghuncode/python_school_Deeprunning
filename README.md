@@ -133,11 +133,6 @@
 </td>
 </tr>
 <tr>
-<td align="center">
-  <a target="_blank" rel="noopener noreferrer" href="">
-    <img src="https://github.com/seonghuncode/python_school_Deeprunning/assets/93322852/6180f6c2-af81-4cb8-b503-b30482d5702f" alt="ERD" width="1100px" style="max-width: 100%;">
-  </a>
-</td>
 </tr>
 </table>
 </table>
